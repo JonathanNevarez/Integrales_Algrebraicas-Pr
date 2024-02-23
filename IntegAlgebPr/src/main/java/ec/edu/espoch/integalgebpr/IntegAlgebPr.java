@@ -1,5 +1,5 @@
 package ec.edu.espoch.integalgebpr;
-import ec.edu.espoch.integalgebpr.vista.Interfaz;
+import ec.edu.espoch.integalgebpr.obserber.Interfaz;
 /**
  * Jonathan Nevarez
  * Sofia Moran

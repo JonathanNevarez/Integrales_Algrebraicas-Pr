@@ -1,6 +1,6 @@
-package ec.edu.espoch.integalgebpr.modelo;
+package ec.edu.espoch.integalgebpr.observable;
 
-import ec.edu.espoch.integalgebpr.vista.Interfaz;
+import ec.edu.espoch.integalgebpr.obserber.Interfaz;
 import reactor.core.publisher.Mono;
 
 public class Modelo {
