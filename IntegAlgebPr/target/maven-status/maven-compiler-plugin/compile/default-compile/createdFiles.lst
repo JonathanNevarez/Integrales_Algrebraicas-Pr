@@ -1,4 +1,4 @@
-ec\edu\espoch\integalgebpr\modelo\Modelo.class
-ec\edu\espoch\integalgebpr\vista\Interfaz.class
+ec\edu\espoch\integalgebpr\observable\Modelo.class
 ec\edu\espoch\integalgebpr\IntegAlgebPr.class
-ec\edu\espoch\integalgebpr\vista\Interfaz$1.class
+ec\edu\espoch\integalgebpr\obserber\Interfaz$1.class
+ec\edu\espoch\integalgebpr\obserber\Interfaz.class
